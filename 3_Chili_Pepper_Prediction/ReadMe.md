@@ -1,0 +1,4 @@
+Kaggle Dataset - https://www.kaggle.com/datasets/shuvokumarbasak4004/chili-plant-disease-detection/data
+
+About Dataset
+The Chili Plant Disease Detection dataset is designed to aid in the detection and classification of diseases in chili plants. The dataset contains 200 images of chili fruits, categorized into two classes: Healthy and Unhealthy. The images in the Healthy folder depict chili fruits that are disease-free, while the Unhealthy folder contains chili fruits showing symptoms of various diseases. Each folder contains 100 images, with filenames like 1.jpg, 10.jpg, 100.jpg, and so on, ensuring a uniform and organized structure. This dataset is valuable for training machine learning models aimed at diagnosing chili plant diseases, promoting precision agriculture and improving crop yield monitoring systems.
